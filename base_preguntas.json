@@ -1,0 +1,70 @@
+[
+    {
+        "categoria": "Paso 6",
+        "pregunta": "¿Qué significa nacer de nuevo?",
+        "respuesta": "ENTRAR A LAS AGUAS DEL BAUTISMO",
+        "incorecta_1": "VOLVER A CRECER",
+        "incorecta_2": "NO SE",
+        "imagen": "https://desdelafe.mx/wp-content/uploads/2023/09/Jesus-Emmanuel.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"San Juan 3:5 (Reina – Valera 1960) ",
+        "info_cita":"Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios."
+    },
+
+    {
+        "categoria": "Paso 6",
+        "pregunta": "Después del arrepentimiento y la confesión ¿Cuál es el siguiente paso que debemos dar?",
+        "respuesta": "HACERNOS BAUTIZAR",
+        "incorecta_1": "IR A DORMIR",
+        "incorecta_2": "ORAR",
+        "imagen": "https://churchofjesuschrist.org/imgs/7d341df691f1697dc08455fc4b3ff3e393de8a2e/full/500%2C/0/default",
+        "object_fit": "cover",
+        "cita_biblica":"Hechos 2:37-38 (Reina – Valera 1960) ",
+        "info_cita":"Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos? Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+    },
+
+    {
+        "categoria": "Paso 6",
+        "pregunta": "¿Cuál es la forma correcta que uso Juan para bautizar a Jesús? ",
+        "respuesta": " POR INMERSIÓN",
+        "incorecta_1": "POR ASPERSIÓN",
+        "incorecta_2": "NO HAY QUE BAUTIZARSE",
+        "imagen": "https://media.ambito.com/p/547c614a3a554465ade30f1d343cce9f/adjuntos/239/imagenes/040/871/0040871894/1200x675/smart/jesusjpg.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"San Mateo 3:13-17 (Reina - Valera 1960)",
+        "info_cita":"Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él. Más Juan se le oponía, diciendo: Yo necesito ser bautizado por ti, ¿y tú vienes a mí? Pero Jesús le respondió: Deja ahora, porque así conviene que cumplamos toda justicia. Entonces le dejó. Y Jesús, después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma, y venía sobre él. Y hubo una voz de los cielos, que decía: Este es mi Hijo amado, en quien tengo complacencia."
+    },
+    {
+        "categoria": "Paso 4",
+        "pregunta": "¿Quiere Jesús que los habitantes de este mundo sean bautizados como Él lo hizo?",
+        "respuesta": "ASÍ ES",
+        "incorecta_1": "NO",
+        "incorecta_2": "NO SE SABE",
+        "imagen": "https://www.denisonforum.org/wp-content/uploads/2023/04/jesus-hand-out-1120.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"San Juan 13:15 (Reina – Valera 1960)",
+        "info_cita":"Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis."
+    },
+    {
+        "categoria": "Paso 4",
+        "pregunta": "¿Cuál es el significado del bautismo por inmersión? ",
+        "respuesta": "MORIR AL PECADO Y NACER A UNA NUEVA VIDA ESPIRITUAL",
+        "incorecta_1": "SUEÑO PROFUNDO",
+        "incorecta_2": "NO SE SABE",
+        "imagen": "https://www.denisonforum.org/wp-content/uploads/2023/04/jesus-hand-out-1120.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"Romanos 6:3-4 (Reina – Valera 1960)",
+        "info_cita":"¿O no sabéis que todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en su muerte? Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva."
+    },
+    {
+        "categoria": "Paso 4",
+        "pregunta": "¿Debe una persona ser bautizada para poder vivir en salvación? ",
+        "respuesta": "CLARAMENTE SI",
+        "incorecta_1": "CLARAMENTE NO",
+        "incorecta_2": "NO SE SABE",
+        "imagen": "https://www.denisonforum.org/wp-content/uploads/2023/04/jesus-hand-out-1120.jpg",
+        "object_fit": "cover",
+        "cita_biblica":"San marcos 16:16 (Reina – Valera 1960) ",
+        "info_cita":"El que creyere y fuere bautizado, será salvo; más el que no creyere, será condenado."
+    }
+]
